@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1638370853 source:c:\users\kiit\documents\cpractise\book\main.cpp
+	<iostream>
+
+1638621807 source:c:\users\kiit\documents\cpractise\book\distance.cpp
+	<iostream>
+	<limits>
+
+1638622108 source:c:\users\kiit\documents\cpractise\book\stoi.cpp
+	<iostream>
+	<limits>
+
+1638799339 source:c:\users\kiit\documents\cpractise\book\milestokm.cpp
+	<iostream>
+	<limits>
+
+1639036225 source:c:\users\kiit\documents\cpractise\book\birthday.cpp
+	<iostream>
+
+1639728661 source:c:\users\kiit\documents\cpractise\book\array.cpp
+	<iostream>
+
